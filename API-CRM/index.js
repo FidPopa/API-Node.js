@@ -39,7 +39,7 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({extended: true}));
 
 
-//Habilitar cors
+//Habilitar cors  test
 app.use(cors());
 
 
